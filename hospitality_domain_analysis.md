@@ -4,7 +4,7 @@
 This project analyzes data from the hospitality industry using Python and Jupyter Notebooks.
 
 ## Contents
-- `hospitality_analysis.ipynb`: Jupyter notebook containing the analysis.
+- `Hospitality Domain.ipynb`: Jupyter notebook containing the analysis.
 
 ## How to Run
 1. Clone the repository.
