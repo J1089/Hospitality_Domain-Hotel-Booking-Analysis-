@@ -9,6 +9,8 @@ This project analyzes data from the hospitality industry using Python and Jupyte
 
 ## How to Run
 1. Clone the repository.
+gh repo clone J1089/Hospitality_Domain-Hotel-Booking-Analysis-
+
 2. Open the `.ipynb` file in Jupyter Notebook or JupyterLab.
 
 ## Requirements
